@@ -1,0 +1,58 @@
+Consolidated Summary of Technologies and Tools Across Job Descriptions
+Cloud Platforms & Services
+
+    AWS Expertise:
+        Compute: EC2, ECS, EKS, Lambda
+        Networking: VPC, VPC Peering, CloudFront, Route53, TCP/IP, Load Balancers
+        Storage: S3, RDS, Redis, PostgreSQL, MySQL, DocumentDB
+        Big Data: EMR, Athena, Kafka, Kinesis
+        Monitoring: CloudWatch, New Relic, Sentry
+        Security: IAM, OS patching, hardening, vulnerability remediation
+    Multi-Cloud: Azure (Azure Resource Manager, Active Directory), GCP (intermediate).
+    IBM Cloud: Focused on API design, compute infrastructure, and system reliability.
+
+Containerization & Orchestration
+
+    Docker, Kubernetes (EKS, OpenShift, IBM Cloud).
+
+Infrastructure as Code (IaC)
+
+    Tools: Terraform, CloudFormation, Azure Resource Manager, Chef, Ansible.
+
+Programming & Scripting
+
+    Languages: Python, Bash, PowerShell, Ruby, Go, Groovy.
+    Strong focus on API development and backend web application development.
+
+CI/CD & DevOps Tools
+
+    Tools: Jenkins, GitLab CI/CD, ArgoCD, GitHub Actions, Nexus, JFrog.
+    Practices: GitOps, automated pipelines, SAST/SCA tools integration.
+
+Monitoring & Observability
+
+    Tools: Zabbix, Splunk, Nagios, Sysdig, LogDNA, Grafana, Kibana, Prometheus, New Relic, Sentry.
+
+Networking, Security, and System Administration
+
+    Networking: DNS, routing, NAT, Transit Gateway, security hardening.
+    OS: Linux (RHEL, CentOS, Ubuntu) and Windows Server.
+
+Additional Tools and Skills
+
+    Virtualization: VMware vSphere, Citrix Hypervisor, Ubuntu KVM.
+    Automation: Active Directory, ServiceNow, JIRA.
+    Data Technologies: Elasticsearch, InfluxDB, NoSQL databases, SQL.
+    Strong emphasis on troubleshooting, bottleneck resolution, and system performance tuning.
+
+Soft Skills
+
+    Leadership: Mentoring, escalation support, and guiding junior team members.
+    Collaboration: Working with cross-functional teams and stakeholders.
+    Customer Focus: Resolving client issues and ensuring high availability and scalability.
+
+Certifications
+
+    AWS Certified Solutions Architect (preferred).
+
+This comprehensive skill set spans cloud infrastructure management, container orchestration, DevOps practices, security, and automation while emphasizing collaboration and problem-solving abilities.
